@@ -1,0 +1,11 @@
+[{
+  "123 1234 1234": {
+    "pwd": "qwerty",
+    "domain": "zoom.us",
+    "start": "16:30",
+    "end": "17:45",
+    "padding": 180000,
+    "name": "Physics",
+    "desc": "Period 2 physics with Mr. Foobar"
+  }
+}]
