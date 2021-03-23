@@ -6,7 +6,7 @@ class Meeting {
         this._pwd = password;
         this._domain = domain;
         
-        this._padding = 3 * 60 * 1000;
+        this._padding = 5;
         this._start = start;
         this._end = end;
 
