@@ -1,2 +1,2 @@
-# Zoom-Scheduler
-Automatically manage and join Zoom meetings
+# Zoom Joiner
+Automatically join Zoom meetings
